@@ -1,0 +1,10 @@
+
+How to 
+- pindahkan file yang telah di download ke xampp->htdocs  
+- kemudian nyalakan xampp
+- upload sql file ke table mysql
+- kemudian buka postman dan jalankan endpoint berikut :
+- http://localhost/Klik/api/stocks.php
+
+hanya dapat mengerjakan soal nomor 1
+
